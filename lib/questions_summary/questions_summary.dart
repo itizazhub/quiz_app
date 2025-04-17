@@ -11,8 +11,8 @@ class QuestionsSummary extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       alignment: Alignment.center,
-      width: MediaQuery.of(context).size.width * .6,
-      height: 300,
+      width: MediaQuery.of(context).size.width * .8,
+      height: 400,
       child: ListView.builder(
         itemCount: summaryData.length,
         itemBuilder: (context, index) {

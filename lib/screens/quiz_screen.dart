@@ -97,8 +97,8 @@ class _QuizScreenState extends State<QuizScreen> {
                           },
                           style: ElevatedButton.styleFrom(
                             padding: const EdgeInsets.symmetric(
-                              vertical: 30,
-                              horizontal: 40,
+                              vertical: 20,
+                              horizontal: 20,
                             ),
                             backgroundColor:
                                 const Color.fromARGB(255, 33, 1, 95),
@@ -111,7 +111,7 @@ class _QuizScreenState extends State<QuizScreen> {
                             shuffledAnswers[index],
                             textAlign: TextAlign.center,
                             style: GoogleFonts.outfit(
-                                fontSize: 18, color: Colors.white),
+                                fontSize: 15, color: Colors.white),
                           ),
                         ),
                       );
