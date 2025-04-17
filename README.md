@@ -1,7 +1,7 @@
 # quiz_app
 
 ## Watch demo
-[Link](https://drive.google.com/file/d/116v_gtFqgwzVDfDVwmM8G6rrHV8XdUaW/view?usp=drive_link)
+[vedio Link](https://drive.google.com/file/d/116v_gtFqgwzVDfDVwmM8G6rrHV8XdUaW/view?usp=drive_link)
 
 A new Flutter project.
 
